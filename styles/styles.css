@@ -1,0 +1,14 @@
+.encabezado{
+    color: crimson;
+    text-align: center;
+    font-family: 'Lobster Two', cursive;
+    background-color: grey;
+}
+body{
+    background-image: url(https://img.game.co.uk/merch2017/ecomm/articles/Horizon%20Zero%20Dawn%20Me.jpg);
+}
+table{
+    display: flex;
+    justify-content: center;
+
+}
